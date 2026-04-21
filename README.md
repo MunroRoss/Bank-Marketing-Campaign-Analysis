@@ -15,6 +15,16 @@ The Dataset used for this exercise is a sample based on the marketing campaign o
 * ggplot2
 
 # Part 1: EDA
-
+* Numerical Features
+  * Distributions
+  * Correlation
+* Categorical Features
+  * Disturbution
+  * Chi-squared test
+* Data Cleaning
+  * Feature Selection
+  * Outliers
+  * Encoding
+  * Scaling
 
 # Part 2: Statistical Modelling
