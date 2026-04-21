@@ -5,6 +5,10 @@ In this application, the aim is to develop statistical models that can accuratel
 
 The first section covers Exploratory Data Analysis, and the second part involves model training and evaluation. All analysis and training were done using R.
 
+# Dataset
+
+The Dataset used for this exercise is a sample based on the marketing campaign of a Portuguese banking institution. It provides 20 input features for each observation and a target column, named “y”, with a binary category of “yes” or “no” on the result of selling a term deposit. The dataset used for this problem was provided by the UoE online and various samples including the original dataset can be found on the UCI Machine learning repository [here](https://archive.ics.uci.edu/dataset/222/bank+marketing).
+
 # Technologies
 * R
 * tidyverse
@@ -13,4 +17,4 @@ The first section covers Exploratory Data Analysis, and the second part involves
 # Part 1: EDA
 
 
-#Part 2: Statistical Modelling
+# Part 2: Statistical Modelling
